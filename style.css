@@ -40,16 +40,42 @@ body{
 #taka{
    border: 7px solid tomato;
 }
+.input_ses
+{
+   margin-top: 4%;
+   padding-left: 40%;
+   
+}
 .input_section{
+   width: 280px;
+   height: 35px;
+   
+   text-align: center;
+   border: 0px solid gray;
+    box-sizing: border-box;
+    color: #000;
 
 }
-
-input[type=text] {
-   width: 20%;
-   padding: 0px 0px 2px 0px;
-   margin: 0;
+.hr_input{
+   width: 100px;
+   padding-left: 30%;
+}
+.btn_submit{
+   margin: 3%;
+   text-align: center;
+}
+.donate_plan{
+   display: flex;
+}
+.plan{
    
- }
+   margin: 7px 5px;
+   box-shadow: 0px 10px 30px;
+   padding: 20px 20px;
+   text-align: center;
+}
+
+
 
 .footer{
    margin-top: 10%;
